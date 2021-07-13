@@ -1,0 +1,6 @@
+[submodule "Empathy"]
+	path = Empathy
+	url = https://github.com/Sahandfer/EMPaper
+[submodule "Persona"]
+	path = Persona
+	url = https://github.com/Sahandfer/PersonaPaper
